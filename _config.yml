@@ -1,13 +1,13 @@
 # Site settings
 title: Huangk's Blog
-SEOTitle: 博客 | BY Blog
+SEOTitle: 放文字的地方 | BY huangk
 header-img: img/post-bg-desk.jpg
 email: huangke10@foxmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+description: "Welcome"
+keyword: ""
+url: "http://huangk10.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+# github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -19,10 +19,10 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
+zhihu_username:     huangk10
 github_username:    huangk10
 facebook_username:  huangke
-jianshu_username:   e71990ada2fd
+# jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
