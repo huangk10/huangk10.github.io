@@ -1,6 +1,6 @@
 # Site settings
-title: Huangk's Blog
-SEOTitle: 放文字的地方 | BY huangk
+title: 数渡
+SEOTitle: 放文字的地方 | Huangk
 header-img: img/post-bg-desk.jpg
 email: huangke10@foxmail.com
 description: "Welcome"
@@ -11,7 +11,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Excellence is a habit!"
 sidebar-avatar: /img/about_me.png    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,9 +19,9 @@ sidebar-avatar: /img/about_me.png    # use absolute URL, seeing it's used in bot
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     huangk10
+# zhihu_username:     huangk10
 github_username:    huangk10
-facebook_username:  huangke
+# facebook_username:  huangke
 # jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
