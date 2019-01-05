@@ -7,7 +7,8 @@ author:     huangk
 header-img: 
 catalog: true
 tags:
-    - Rrequests, python
+    - BeautifulSoup
+    - python
 ---
 
 ## BeautifulSoup教程
